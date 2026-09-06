@@ -16,7 +16,7 @@ I also write music with code, in case the backend gets boring.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFB03A?style=for-the-badge&logo=vercel&logoColor=0B1416)](https://portfolio-phi-ten-37.vercel.app/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A2A2D?style=for-the-badge&logo=linkedin&logoColor=4FE3B0)](https://www.linkedin.com/in/adalberto-cerrillo-v%C3%A1zquez-a3870628a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A2A2D?style=for-the-badge&logo=linkedin&logoColor=4FE3B0)](https://www.linkedin.com/in/adalbertocerrillo/)
 &nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-1A2A2D?style=for-the-badge&logo=youtube&logoColor=FF6B4F)](https://www.youtube.com/@acerrillosoftware)
 &nbsp;
