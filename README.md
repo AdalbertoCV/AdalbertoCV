@@ -12,11 +12,9 @@
 
 </div>
 
-I build web applications end to end — **APIs in Java and Python**, interfaces in **React**, all of it packaged in **Docker**. What holds my attention is software someone actually uses: systems for institutions, internal tools, projects that solve a concrete problem for a real person.
+Software engineer at [**Radii**](https://www.radii.com.mx). I build web applications end to end — **APIs in Java and Python**, interfaces in **React**, all of it packaged in **Docker**. What holds my attention is software someone actually uses: systems for institutions, internal tools, projects that solve a concrete problem for a real person.
 
-This is my public code account. My day job lives in private repositories at [Radii](https://www.radii.com.mx); that side of the work is described on [**@AdalbertoCerrillo**](https://github.com/AdalbertoCerrillo).
-
-I also write music with code, in case the backend gets boring.
+This is my public code account, so everything below is open and readable. I also write music with code, in case the backend gets boring.
 
 <div align="center">
 
@@ -27,15 +25,36 @@ I also write music with code, in case the backend gets boring.
 
 </div>
 
-## What I'm doing now
+## Radii · Software Engineer · 2025 — present
 
-**[Radii](https://www.radii.com.mx) · Software Engineer · 2025 — present**
+[Radii](https://www.radii.com.mx) is supply-chain-as-a-service for nearshoring manufacturing in Mexico — CNC parts for aerospace and automotive, quoted and sourced through one platform.
 
-Supply-chain-as-a-service for nearshoring manufacturing in Mexico — CNC parts for aerospace and automotive, quoted and sourced through one platform. I work on the part where a drawing becomes a number: instant quoting, vision-based spec extraction from 2D prints, price calibration against real orders, and the Django + React platform underneath.
+I work on the part where a drawing becomes a number.
+
+**Instant quoting for CNC parts.** CAD and 2D drawing ingestion, DFM checks, and the pricing engine that turns geometry into a quote.
+
+**Vision-based spec extraction.** Pulling material, tolerances, finishes and dimensions off 2D prints — including the precedence rules for when the drawing and the RFQ disagree with each other.
+
+**Price calibration.** A benchmark corpus of real parts, replayed against the pricer so that a change to the model can be measured rather than argued about.
+
+**Platform work.** Django REST API, cloud workers, a React 19 front end, and the queue plumbing between them.
+
+Most of this lives in private repositories; [**@AdalbertoCerrillo**](https://github.com/AdalbertoCerrillo) is where that side of the work is written up.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/divider-dark.svg">
+  <img src="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/divider-light.svg" alt="" width="520">
+</picture>
+
+</div>
+
+## Also building
 
 <img src="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/stackselect.svg" alt="StackSelect" width="56" align="left" hspace="14">
 
-**StackSelect** — a startup I'm building. Helping teams choose the stack they'll actually live with, instead of the one that trended last quarter.
+**StackSelect** — a startup I'm building, aimed at helping students take their first step into the working world.
 
 <br clear="left">
 
