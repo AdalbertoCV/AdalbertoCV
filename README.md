@@ -1,104 +1,204 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1416,60:1E3237,100:FFB03A&height=200&section=header&text=Adal%20Cerrillo&fontSize=54&fontColor=F2EBDD&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Zacatecas,%20M%C3%A9xico&descSize=17&descAlignY=57" alt="Adal Cerrillo — Software Engineer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/hero-dark.svg">
+  <img src="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/hero-light.svg" alt="Adal Cerrillo — Software Engineer, Zacatecas, Mexico" width="520">
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FFB03A&center=true&vCenter=true&width=520&height=42&lines=Spring+Boot+%2B+Django+%2B+React;De+la+API+al+pixel;Backend+que+aguanta%2C+frontend+que+se+siente" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/divider-dark.svg">
+  <img src="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/divider-light.svg" alt="" width="520">
+</picture>
 
 </div>
 
----
+I build web applications end to end — **APIs in Java and Python**, interfaces in **React**, all of it packaged in **Docker**. What holds my attention is software someone actually uses: systems for institutions, internal tools, projects that solve a concrete problem for a real person.
 
-Construyo aplicaciones web de punta a punta: **APIs en Java y Python**, interfaces en **React**, y todo empaquetado en **Docker**. Me interesan las cosas que se usan de verdad — sistemas para instituciones, herramientas internas, proyectos que resuelven un problema concreto de alguien.
+This is my public code account. My day job lives in private repositories at [Radii](https://www.radii.com.mx); that side of the work is described on [**@AdalbertoCerrillo**](https://github.com/AdalbertoCerrillo).
 
-También escribo música con código, por si el backend se pone aburrido.
+I also write music with code, in case the backend gets boring.
 
 <div align="center">
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-FFB03A?style=for-the-badge&logo=vercel&logoColor=0B1416)](https://portfolio-phi-ten-37.vercel.app/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/Repositorios-0B1416?style=for-the-badge&logo=github&logoColor=F2EBDD)](https://github.com/AdalbertoCV?tab=repositories)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/divider-dark.svg">
+  <img src="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/divider-light.svg" alt="" width="520">
+</picture>
 
 </div>
 
----
+## What I'm doing now
 
-## Con qué trabajo
+**[Radii](https://www.radii.com.mx) · Software Engineer · 2025 — present**
 
-**Lenguajes**
+Supply-chain-as-a-service for nearshoring manufacturing in Mexico — CNC parts for aerospace and automotive, quoted and sourced through one platform. I work on the part where a drawing becomes a number: instant quoting, vision-based spec extraction from 2D prints, price calibration against real orders, and the Django + React platform underneath.
 
-![Java](https://img.shields.io/badge/Java-E09B4B?style=for-the-badge&logo=openjdk&logoColor=0B1416)
-![Python](https://img.shields.io/badge/Python-4FE3B0?style=for-the-badge&logo=python&logoColor=0B1416)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB03A?style=for-the-badge&logo=javascript&logoColor=0B1416)
-![C#](https://img.shields.io/badge/C%23-A78BFA?style=for-the-badge&logo=dotnet&logoColor=0B1416)
-![SQL](https://img.shields.io/badge/PL%2FSQL-FF6B4F?style=for-the-badge&logo=oracle&logoColor=0B1416)
+<img src="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/stackselect.svg" alt="StackSelect" width="56" align="left" hspace="14">
 
-**Backend**
+**StackSelect** — a startup I'm building. Helping teams choose the stack they'll actually live with, instead of the one that trended last quarter.
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1A2A2D?style=for-the-badge&logo=springboot&logoColor=4FE3B0)
-![Django](https://img.shields.io/badge/Django-1A2A2D?style=for-the-badge&logo=django&logoColor=4FE3B0)
-![Docker](https://img.shields.io/badge/Docker-1A2A2D?style=for-the-badge&logo=docker&logoColor=4FE3B0)
+<br clear="left">
 
-**Frontend**
+<img src="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/moonphase.svg" alt="Moonphase" width="56" align="left" hspace="14">
 
-![React](https://img.shields.io/badge/React-1A2A2D?style=for-the-badge&logo=react&logoColor=FFB03A)
-![Sass](https://img.shields.io/badge/Sass-1A2A2D?style=for-the-badge&logo=sass&logoColor=FFB03A)
-![HTML5](https://img.shields.io/badge/HTML5-1A2A2D?style=for-the-badge&logo=html5&logoColor=FFB03A)
-![CSS3](https://img.shields.io/badge/CSS3-1A2A2D?style=for-the-badge&logo=css3&logoColor=FFB03A)
+**Moonphase** — my other startup, built from zero. *Creating even the impossible, one step at a time.* Coming soon.
 
-**Calidad**
+<br clear="left">
 
-![Gherkin](https://img.shields.io/badge/BDD_·_Gherkin-1A2A2D?style=for-the-badge&logo=cucumber&logoColor=A78BFA)
-![Testing](https://img.shields.io/badge/Unit_·_Doctest_·_Aceptación-1A2A2D?style=for-the-badge&logo=pytest&logoColor=A78BFA)
+<img src="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/evodeps.svg" alt="Evodeps" width="56" align="left" hspace="14">
 
----
+**[Evodeps](https://github.com/Evodeps)** — active contributor.
 
-## Proyectos
+<br clear="left">
 
-| | |
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/divider-dark.svg">
+  <img src="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/divider-light.svg" alt="" width="520">
+</picture>
+
+</div>
+
+# Projects
+
+Everything below is public and readable. Each entry says what the project **is** and what it **demonstrates** — the second part is the reason it's worth opening.
+
+### Featured
+
+<table>
+<tr><td width="32%">
+
+**[Nocturno 108](https://github.com/AdalbertoCV/nocturno-108)**
+
+<sub>`Strudel` · `Web Audio API` · `JavaScript`</sub>
+
+</td><td>
+
+A jazz-hop track written as code. Strudel for the score, plus a player with an audio engine **synthesised from scratch in Web Audio** — no samples, no libraries. An avatar that dances on the beat, a live piano roll, and a mixer.
+
+**Demonstrates** real-time audio synthesis, scheduling against a clock, and creative coding that still has to keep time.
+
+</td></tr>
+<tr><td>
+
+**[COSIAP](https://github.com/AdalbertoCV/Sistema-de-Apoyos-COZCyT)**
+
+<sub>`Django` · `Docker` · `Python`</sub>
+
+</td><td>
+
+Grant management for the Zacatecas Science and Technology Council — applications, review workflow and awards for a real public institution. Built with a team.
+
+**Demonstrates** domain modelling for an organisation with actual rules, and shipping to users who are not developers.
+
+</td></tr>
+<tr><td>
+
+**[Cargas UAIE](https://github.com/AdalbertoCV/Sistema-de-Cargas-UAIE)**
+
+<sub>`Django` · `Docker` · `SCSS`</sub>
+
+</td><td>
+
+Academic workload management for a university department: distributing teaching load across faculty, subjects and terms. Also a team build.
+
+**Demonstrates** constraint-heavy scheduling and a Dockerised Django deployment.
+
+</td></tr>
+<tr><td>
+
+**[ETL → Dgraph](https://github.com/AdalbertoCV/ETL-Equipo4)**
+
+<sub>`Python` · `Dgraph` · `Luigi` · `Dash`</sub>
+
+</td><td>
+
+A pipeline that consolidates purchasing data scattered across **four heterogeneous formats** — CSV, XML, HTM and TXT — into a single graph database, then serves it through an analytics dashboard.
+
+**Demonstrates** extractor/transformer separation that stays extensible per format, task orchestration with Luigi, and choosing a graph model because the data *is* relationships.
+
+</td></tr>
+</table>
+
+### Systems & architecture
+
+| Project | What it demonstrates |
 |---|---|
-| [**Nocturno 108**](https://github.com/AdalbertoCV/nocturno-108) | Una pista de jazz-hop escrita como código. Strudel para la partitura, y un reproductor con motor de audio sintetizado desde cero en Web Audio: avatar que baila al pulso, piano-roll en vivo y mezcladora. |
-| [**COSIAP**](https://github.com/AdalbertoCV/Sistema-de-Apoyos-COZCyT) | Sistema de apoyos del Consejo Zacatecano de Ciencia y Tecnología. Django y Docker, desarrollado en equipo. |
-| [**Cargas UAIE**](https://github.com/AdalbertoCV/Sistema-de-Cargas-UAIE) | Gestión de carga de trabajo académica. Django sobre Docker, también en equipo. |
-| [**Portfolio**](https://github.com/AdalbertoCV/Portfolio) | Mi portafolio personal en React, desplegado en Vercel. |
-| [**Retos de código**](https://github.com/AdalbertoCV/retos_coding) | Práctica en Java de los problemas que salen en entrevistas técnicas. |
-| [**Sockets**](https://github.com/AdalbertoCV/Sockets) | Chat básico sobre sockets en Java. Concurrencia y protocolos a mano. |
-| [**Bazar Sol**](https://github.com/AdalbertoCV/Bazar_Sol) | Sitio e-commerce de ropa. |
+| **[SMAM — Publish/Subscribe](https://github.com/AdalbertoCV/Publica-Suscribe-Equipo4)**<br><sub>`Python` · `ActiveMQ` · `STOMP`</sub> | Real-time vital-sign telemetry from simulated wearables, fanned out to three independent subscribers over ActiveMQ. The architectural point: producers never learn who consumes them, so adding a consumer touches no device code. |
+| **[Sockets](https://github.com/AdalbertoCV/Sockets)**<br><sub>`Java` · `TCP` · `Swing`</sub> | A chat over raw TCP sockets with file transfer — no framework hiding the handshake. Concurrency by hand: the receive loop runs on its own thread so a blocking `readLine()` can't freeze the interface. |
+| **[OOP & Data Structures](https://github.com/AdalbertoCV/POO-EDD)**<br><sub>`Java` · `JDBC` · `Gradle`</sub> | ~340 Java classes. Lists, stacks, queues, trees, graphs and heaps **implemented from scratch** in static and dynamic variants — nothing leans on `java.util.Collections`. Plus a DAO layer, REST services and Android clients. |
 
----
+### Engineering practice
 
-## Dónde va el código
+| Project | What it demonstrates |
+|---|---|
+| **[Software Testing](https://github.com/AdalbertoCV/Ejercicios_Testing_ENEDIC24)**<br><sub>`Python` · `Behave` · `Selenium`</sub> | The full testing pyramid in one repository: doctest → `unittest` with coverage → BDD in Gherkin → end-to-end browser tests against a Django voting system, verified at model, form, view and flow level. |
+| **[Personal Software Process](https://github.com/AdalbertoCV/Personal_Software_Process_03)**<br><sub>`Java` · `PSP (SEI)`</sub> | Five programs, each shipped with its full process record: PROBE size estimates, time and defect logs by phase, review checklists and a postmortem. Measuring my own engineering instead of guessing at it. |
+| **[Database practice](https://github.com/AdalbertoCV/DBS_Practices)**<br><sub>`Oracle SQL` · `PL/SQL`</sub> | 31 scripts across four schemas: joins, correlated subqueries, analytic functions, views and transaction scenarios — including two data models designed and built from scratch. |
+| **[Coding challenges](https://github.com/AdalbertoCV/retos_coding)**<br><sub>`Java` · `Algorithms`</sub> | Java practice for the problems that turn up in technical interviews. |
 
-Medido sobre mis 22 repositorios (públicos y privados), contando sólo lenguajes de programación:
+### Web & applications
+
+| Project | What it demonstrates |
+|---|---|
+| **[Portfolio](https://github.com/AdalbertoCV/Portfolio)**<br><sub>`React` · `JavaScript` · `Vercel`</sub> | My personal portfolio, deployed on Vercel. |
+| **[Django frameworks](https://github.com/AdalbertoCV/Frameworks)**<br><sub>`Django` · `MariaDB` · `Docker`</sub> | From hello-world to an academic enrolment system: email-activation tokens extending Django's own generator, custom RFC and image validators, a prerequisite graph modelled as a self-relation, and dependent selects over AJAX. |
+| **[The Code Company](https://github.com/AdalbertoCV/The-Code-Company-Website)**<br><sub>`Django 4.2` · `SCSS` · `Docker`</sub> | A corporate site where every section is admin-managed, including a Q&A module whose comments require approval before they publish. |
+| **[Visual .NET](https://github.com/AdalbertoCV/Visual.NET)**<br><sub>`C#` · `ASP.NET Core` · `EF Core`</sub> | The whole .NET arc: console OOP, then Windows Forms, then ASP.NET Core MVC with Entity Framework migrations and Identity. |
+| **[Bazar Sol](https://github.com/AdalbertoCV/Bazar_Sol)**<br><sub>`HTML` · `CSS`</sub> | An online clothing store. |
+
+### Security & data
+
+| Project | What it demonstrates |
+|---|---|
+| **[CTF writeups](https://github.com/AdalbertoCV/Writeups_picoCTF)**<br><sub>`picoCTF` · `Bandit` · `Ghidra`</sub> | ~160 challenges documented across web exploitation, cryptography, forensics, reverse engineering and binary exploitation. Each one records the reasoning, not just the flag. |
+| **[Stroke prediction](https://github.com/AdalbertoCV/stroke_classification_RF)**<br><sub>`R` · `Random Forest` · `ROSE`</sub> | Random Forest on a dataset with **~5% positives**, where a naive model scores 95% accuracy and detects nothing. Boruta for feature selection, ROSE for rebalancing, ROC/AUC in place of accuracy. |
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/divider-dark.svg">
+  <img src="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/divider-light.svg" alt="" width="520">
+</picture>
+
+</div>
+
+## Stack
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/stack-dark.svg">
+  <img src="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/stack-light.svg" alt="Stack by area: backend, frontend, data, platform, quality" width="520">
+</picture>
+
+</div>
+
+Where the code actually goes, measured across my repositories and counting programming languages only:
 
 ```
-Java         ████████████████░░░░░░░░░░░░░░░░░░░░░░░░   41 %   Spring Boot, APIs, algoritmos
-JavaScript   █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░   33 %   React y clientes web
+Java         ████████████████░░░░░░░░░░░░░░░░░░░░░░░░   41 %   Spring Boot, APIs, algorithms
+JavaScript   █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░   33 %   React and web clients
 Python       █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   22 %   Django, testing, scripting
 C#           █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    4 %
 ```
 
-Aparte, más de la mitad del volumen total es **HTML, CSS y SCSS** — las interfaces de esos mismos proyectos.
-
-```mermaid
-graph LR
-  A[Spring Boot / Django] -->|API REST| B[React]
-  A --> C[(Base de datos)]
-  A --> D[Docker]
-  B --> D
-  D --> E[Producción]
-  style A fill:#1A2A2D,stroke:#4FE3B0,color:#F2EBDD
-  style B fill:#1A2A2D,stroke:#FFB03A,color:#F2EBDD
-  style C fill:#1A2A2D,stroke:#A78BFA,color:#F2EBDD
-  style D fill:#1A2A2D,stroke:#FF6B4F,color:#F2EBDD
-  style E fill:#FFB03A,stroke:#FFB03A,color:#0B1416
-```
-
----
+Beyond that, more than half the total volume is **HTML, CSS and SCSS** — the interfaces of those same projects.
 
 <div align="center">
 
-**¿Trabajamos juntos?** · [portfolio-phi-ten-37.vercel.app](https://portfolio-phi-ten-37.vercel.app/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/divider-dark.svg">
+  <img src="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/divider-light.svg" alt="" width="520">
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB03A,40:1E3237,100:0B1416&height=110&section=footer" alt="" />
+</div>
+
+## Elsewhere
+
+<div align="center">
+
+[<img src="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/btn-portfolio.svg" alt="Portfolio" width="142">](https://portfolio-phi-ten-37.vercel.app/) [<img src="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/btn-linkedin.svg" alt="LinkedIn" width="130">](https://www.linkedin.com/in/adalberto-cerrillo-v%C3%A1zquez-a3870628a) [<img src="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/btn-youtube.svg" alt="YouTube" width="118">](https://www.youtube.com/@acerrillosoftware) [<img src="https://raw.githubusercontent.com/AdalbertoCV/AdalbertoCV/main/assets/btn-profile.svg" alt="AdalbertoCerrillo on GitHub" width="250">](https://github.com/AdalbertoCerrillo)
 
 </div>
