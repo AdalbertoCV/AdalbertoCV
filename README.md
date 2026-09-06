@@ -79,7 +79,7 @@ I also write music with code, in case the backend gets boring.
 | | |
 |---|---|
 | **[CTF writeups](https://github.com/AdalbertoCV/Writeups_picoCTF)** · `picoCTF` `Bandit` | ~160 challenges: web, crypto, forensics, reversing, binary exploitation. The reasoning, not just the flag. |
-| **[Stroke prediction](https://github.com/AdalbertoCV/stroke_classification_RF)** · `R` `Random Forest` | ~5% positives, where naive accuracy of 95% detects nothing. Boruta, ROSE, ROC/AUC. |
+| **[Stroke prediction](https://github.com/AdalbertoCV/stroke_classification_RF)** · `R` `Random Forest` | Predicting stroke risk on a dataset that is only ~5% positive. Boruta picks the features, ROSE balances the classes, ROC/AUC scores it. |
 
 ---
 
